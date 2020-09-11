@@ -1001,3 +1001,12 @@ padding-bottom: 1%;
 padding-top: 3%;
 }
 
+
+.margin {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.learnView{
+   width: 700px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
